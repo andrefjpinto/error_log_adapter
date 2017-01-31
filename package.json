@@ -9,6 +9,7 @@
   "author": "Andre Pinto",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.5.1"
+    "amqplib": "^0.5.1",
+    "elasticsearch": "^12.1.3"
   }
 }
